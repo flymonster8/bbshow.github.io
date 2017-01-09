@@ -1,0 +1,8 @@
+title: Bbshow.GitHub.io
+description: 宝宝秀
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
